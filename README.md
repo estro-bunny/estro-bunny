@@ -85,17 +85,13 @@ and
 
 ### 💗 Currently flirting with
 
-```text
 
-C++        ████████████░░░░░░░░  60%
-JavaScript ████████████████░░░░  80%
-React      ███████████████░░░░░  75%
-Python     ███████████████░░░░░  75%
-CSS        █████████████████░░░  85%
-Git        ██████████████░░░░░░  70%
-Sanity     ██░░░░░░░░░░░░░░░░░░  10%
 
-```
+<p align="center">
+<img src="estrobunny_xo_skill_tree.svg" alt="EstroBunny_xo Skill Tree" style="max-width: 100%; height: auto;" />
+</p>
+
+
 
 ---
 
