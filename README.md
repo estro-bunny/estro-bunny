@@ -197,6 +197,10 @@ And there's a very good chance something is going to be slightly unhinged.
   <img src="https://img.shields.io/badge/GitHub-EstroBunny__xo-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://x.com/EstroBunny_xo">
+  <img src="https://img.shields.io/badge/x-EstroBunny__xo-ff69b4?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
 </p>
 
 ---
