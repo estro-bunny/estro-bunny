@@ -17,17 +17,16 @@
 ## 🐰 WHO THE FUCK IS ESTROBUNNY?
 
 ```text
-╭────────────────────────────────────────────╮
-│                                            │
-│   🐇 Name       EstroBunny_xo              │
-│   💗 Alignment   Chaotic Cute              │
-│   🏳️‍⚧️ Status     Still Here™              │
-│   💻 Class       Developer                 │
-│   🧠 Brain       37 tabs + 2 braincells    │
-│   ☕ Fuel        questionable decisions    │
-│   💥 Specialty   breaking things           │
-│                                            │
-╰────────────────────────────────────────────╯
+ʚ────────────────────────────────────────────ɞ
+                                            
+   🐇 Name       ┃EstroBunny_xo             
+   💗 Alignment  ┃Chaotic Cute              
+   🏳️‍⚧️ Status     ┃Still Here™              
+   💻 Class      ┃Developer                 
+   🧠 Brain      ┃37 tabs + 2 braincells    
+   ☕ Fuel       ┃questionable decisions    
+                                            
+ʚ────────────────────────────────────────────ɞ
 ```
 
 Hi. I'm **EstroBunny_xo** — a trans girl who likes making software, experimenting with stupid ideas, and occasionally turning a perfectly functional project into something significantly more complicated.
@@ -87,13 +86,15 @@ and
 ### 💗 Currently flirting with
 
 ```text
-C++        ███████████████░░░░░  75%
+
+C++        ████████████░░░░░░░░  60%
 JavaScript ████████████████░░░░  80%
 React      ███████████████░░░░░  75%
-Python     ████████████░░░░░░░░  60%
+Python     ███████████████░░░░░  75%
 CSS        █████████████████░░░  85%
 Git        ██████████████░░░░░░  70%
 Sanity     ██░░░░░░░░░░░░░░░░░░  10%
+
 ```
 
 ---
@@ -200,7 +201,7 @@ And there's a very good chance something is going to be slightly unhinged.
 
 <p align="center">
 
-<a href="https://github.com/EstroBunny_xo">
+<a href="https://github.com/Estro-Bunny">
   <img src="https://img.shields.io/badge/GitHub-EstroBunny__xo-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
