@@ -170,10 +170,6 @@ And there's a very good chance something is going to be slightly unhinged.
 ## 📊 GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Estro-Bunny&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Estro-Bunny&theme=radical&hide_border=true&background=00000000" />
 </p>
 
